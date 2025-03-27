@@ -1,0 +1,466 @@
+{
+  "sliderData": [
+    {
+      "id": "0",
+      "img": "shoe1",
+      "text": "Summers SALE up to 50% OFF what are you waiting for"
+    },
+    {
+      "id": "1",
+      "img": "shoe2",
+      "text": "AUTUMN is coming, choose what suits you THE BEST"
+    },
+    {
+      "id": "2",
+      "img": "shoe3",
+      "text": "Make your feet as comfortable as walking on the beach"
+    },
+    {
+      "id": "3",
+      "img": "shoe4",
+      "text": "Choose between basketball and fashion or choose both"
+    }
+  ],
+  "storeData": [
+    {
+      "id": "1",
+      "img": "/images/t-shirt1.jpg",
+      "name": "Casual T-Shirt 1",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["XL", "L", "M", "S"],
+      "color": ["black", "green"],
+      "gender": "male",
+      "price": 45
+    },
+    {
+      "id": "2",
+      "img": "/images/t-shirt2.jpg",
+      "name": "Casual T-Shirt 2",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "L", "XL"],
+      "color": ["black", "brown"],
+      "gender": "male",
+      "price": 55
+    },
+    {
+      "id": "3",
+      "img": "/images/t-shirt3.jpg",
+      "name": "Casual T-Shirt 3",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["L", "XL"],
+      "color": ["brown", "yellow"],
+      "gender": "male",
+      "price": 75
+    },
+    {
+      "id": "4",
+      "img": "/images/t-shirt4.jpg",
+      "name": "Casual T-Shirt 4",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "L", "XL"],
+      "color": ["orange", "blue"],
+      "gender": "female",
+      "price": 25
+    },
+    {
+      "id": "5",
+      "img": "/images/t-shirt5.jpg",
+      "name": "Casual T-Shirt 5",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "L", "XL"],
+      "color": ["brown", "blue"],
+      "gender": "female",
+      "price": 15
+    },
+    {
+      "id": "6",
+      "img": "/images/t-shirt6.jpg",
+      "name": "Casual T-Shirt 6",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "L", "XL"],
+      "color": ["purple", "yellow"],
+      "gender": "female",
+      "price": 25
+    },
+    {
+      "id": "7",
+      "img": "/images/t-shirt7.jpg",
+      "name": "Casual T-Shirt 7",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "L", "XL"],
+      "color": ["black", "orange"],
+      "gender": "male",
+      "price": 25
+    },
+    {
+      "id": "8",
+      "img": "/images/t-shirt8.jpg",
+      "name": "Casual T-Shirt 8",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "T-Shirts",
+      "size": ["M", "XL"],
+      "color": ["red", "blue"],
+      "gender": "male",
+      "price": 35
+    },
+    {
+      "id": "9",
+      "img": "/images/jeans1.jpg",
+      "name": "Casual Jeans 1",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["S", "M", "L"],
+      "color": ["blue", "black"],
+      "gender": "male",
+      "price": 55
+    },
+    {
+      "id": "10",
+      "img": "/images/jeans2.jpg",
+      "name": "Casual Jeans 2",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["S", "M"],
+      "color": ["blue", "brown"],
+      "gender": "female",
+      "price": 75
+    },
+    {
+      "id": "11",
+      "img": "/images/jeans3.jpg",
+      "name": "Casual Jeans 3",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["M", "L", "XL"],
+      "color": ["red", "black"],
+      "gender": "male",
+      "price": 95
+    },
+    {
+      "id": "12",
+      "img": "/images/jeans4.jpg",
+      "name": "Casual Jeans 4",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["M", "L", "XL"],
+      "color": ["brown", "green"],
+      "gender": "female",
+      "price": 100
+    },
+    {
+      "id": "13",
+      "img": "/images/jeans5.jpg",
+      "name": "Casual Jeans 5",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["M", "L", "XL"],
+      "color": ["green", "black"],
+      "gender": "female",
+      "price": 200
+    },
+    {
+      "id": "14",
+      "img": "/images/jeans6.jpg",
+      "name": "Casual Jeans 6",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["S", "L", "XL"],
+      "color": ["brown", "red"],
+      "gender": "female",
+      "price": 200
+    },
+    {
+      "id": "15",
+      "img": "/images/jeans7.jpg",
+      "name": "Casual Jeans 7",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["M", "L", "XL"],
+      "color": ["brown", "black"],
+      "gender": "male",
+      "price": 180
+    },
+    {
+      "id": "16",
+      "img": "/images/jeans8.jpg",
+      "name": "Casual Jeans 8",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Jeans",
+      "size": ["M", "L", "XL"],
+      "color": ["green", "black"],
+      "gender": "male",
+      "price": 160
+    },
+    {
+      "id": "17",
+      "img": "/images/hoodie1.jpg",
+      "name": "Casual Hoodie 1",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "L", "XL"],
+      "color": ["blue", "red"],
+      "gender": "female",
+      "price": 85
+    },
+    {
+      "id": "18",
+      "img": "/images/hoodie2.jpg",
+      "name": "Casual Hoodie 2",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "L", "XL"],
+      "color": ["gray", "purple"],
+      "gender": "female",
+      "price": 95
+    },
+    {
+      "id": "19",
+      "img": "/images/hoodie3.jpg",
+      "name": "Casual Hoodie 3",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "M", "XL"],
+      "color": ["red", "blue"],
+      "gender": "male",
+      "price": 95
+    },
+    {
+      "id": "20",
+      "img": "/images/hoodie4.jpg",
+      "name": "Casual Hoodie 4",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "XL"],
+      "color": ["blue", "red"],
+      "gender": "male",
+      "price": 125
+    },
+    {
+      "id": "21",
+      "img": "/images/hoodie5.jpg",
+      "name": "Casual Hoodie 5",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "XL"],
+      "color": ["gray", "red"],
+      "gender": "female",
+      "price": 250
+    },
+    {
+      "id": "22",
+      "img": "/images/hoodie6.jpg",
+      "name": "Casual Hoodie 6",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "XL"],
+      "color": ["gray", "yellow"],
+      "gender": "male",
+      "price": 125
+    },
+    {
+      "id": "23",
+      "img": "/images/hoodie7.jpg",
+      "name": "Casual Hoodie 7",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "M", "L", "XL"],
+      "color": ["black", "blue"],
+      "gender": "male",
+      "price": 450
+    },
+    {
+      "id": "24",
+      "img": "/images/hoodie8.jpg",
+      "name": "Casual Hoodie 8",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Hoodies",
+      "size": ["S", "M", "L", "XL"],
+      "color": ["yellow", "red"],
+      "gender": "female",
+      "price": 355
+    },
+    {
+      "id": "25",
+      "img": "/images/shoe5.jpg",
+      "name": "Casual Shoes 1",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["40", "42", "44", "46"],
+      "color": ["black", "gray"],
+      "gender": "male",
+      "price": 200
+    },
+    {
+      "id": "26",
+      "img": "/images/shoe6.jpg",
+      "name": "Casual Shoes 2",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["40", "42", "44", "46"],
+      "color": ["brown", "gray"],
+      "gender": "female",
+      "price": 250
+    },
+    {
+      "id": "27",
+      "img": "/images/shoe7.jpg",
+      "name": "Casual Shoes 3",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["black","blue"],
+      "gender": "female",
+      "price": 685
+    },
+    {
+      "id": "28",
+      "img": "/images/shoe8.jpg",
+      "name": "Casual Shoes 4",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["black", "gray"],
+      "gender": "male",
+      "price": 255
+    },
+    {
+      "id": "29",
+      "img": "/images/shoe9.jpg",
+      "name": "Casual Shoes 5",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["purple", "black"],
+      "gender": "male",
+      "price": 355
+    },
+    {
+      "id": "30",
+      "img": "/images/shoe10.jpg",
+      "name": "Casual Shoes 6",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["purple", "gray"],
+      "gender": "male",
+      "price": 200
+    },
+    {
+      "id": "31",
+      "img": "/images/shoe11.jpg",
+      "name": "Casual Shoes 7",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["purple", "green"],
+      "gender": "male",
+      "price": 100
+    },
+    {
+      "id": "32",
+      "img": "/images/shoe12.jpg",
+      "name": "Casual Shoes 8",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Shoes",
+      "size": ["36", "38", "40", "42"],
+      "color": ["purple","black"],
+      "gender": "male",
+      "price": 135
+    },
+    {
+      "id": "33",
+      "img": "/images/suit1.jpg",
+      "name": "Casual Suit 1",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["S", "M", "L"],
+      "color": ["black","orange"],
+      "gender": "male",
+      "price": 300
+    },
+    {
+      "id": "34",
+      "img": "/images/suit2.jpg",
+      "name": "Casual Suit 2",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["S", "M", "L"],
+      "color": ["purple","gray"],
+      "gender": "male",
+      "price": 400
+    },
+    {
+      "id": "35",
+      "img": "/images/suit3.jpg",
+      "name": "Casual Suit 3",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["M", "L", "XL"],
+      "color": ["purple", "orange"],
+      "gender": "male",
+      "price": 200
+    },
+    {
+      "id": "36",
+      "img": "/images/suit4.jpg",
+      "name": "Casual Suit 4",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["L", "XL"],
+      "color": ["orange", "black"],
+      "gender": "male",
+      "price": 600
+    },
+    {
+      "id": "37",
+      "img": "/images/suit5.jpg",
+      "name": "Casual Suit 5",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["L", "XL"],
+      "color": ["black", "red"],
+      "gender": "male",
+      "price": 750
+    },
+    {
+      "id": "38",
+      "img": "/images/suit6.jpg",
+      "name": "Casual Suit 6",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["S", "M"],
+      "color": ["brown", "orange"],
+      "gender": "female",
+      "price": 385
+    },
+    {
+      "id": "39",
+      "img": "/images/suit7.jpg",
+      "name": "Casual Suit 7",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["L", "XL"],
+      "color": ["red", "blue"],
+      "gender": "male",
+      "price": 700
+    },
+    {
+      "id": "40",
+      "img": "/images/suit8.jpg",
+      "name": "Casual Suit 8",
+      "text": "Fashion never stops. There is always the new project, the new opportunity.",
+      "type": "Suits",
+      "size": ["S", "M", "XL"],
+      "color": ["blue", "green"],
+      "gender": "male",
+      "price": 550
+    }
+  ]
+}

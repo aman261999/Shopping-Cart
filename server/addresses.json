@@ -1,0 +1,23 @@
+[
+  {
+    "email": "fakeishaan1995@gmail.com",
+    "addresses": [
+      "New Delhi, 122020, Delhi",
+      "Hansupur, Gorakhpur 207300",
+      "Panipat, Haryana 273938"
+    ]
+  },
+  {
+    "email": "amannew@gmail.com",
+    "addresses": [
+      "New Gurgaon"
+    ]
+  },
+  {
+    "email": "amansrivastava@gmail.com",
+    "addresses": [
+      "New Shivpuri Colony , Gorakhpur , 273008",
+      "Malviya Nagar, Jaipur"
+    ]
+  }
+]
